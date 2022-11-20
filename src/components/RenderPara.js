@@ -5,7 +5,7 @@ function RenderPara() {
     const [show,setShow]=useState(false)
     const showHide=()=>
     {
-        setShow((prevState) => !prevState )
+        setShow((prevState) => !prevState )//
         
     }
     
